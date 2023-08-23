@@ -12,4 +12,8 @@ export class MenuService {
   GetData():Observable<{categories:Menu[]}>{
     return this.http.get<{categories:Menu[]}>(this.apiurl)
   }
+  GetCartData(){
+    let arr:any[]=JSON.parse(localStorage.getItem("cart")||'[]')
+    return arr 
+  }
 }
