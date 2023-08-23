@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "name": "Faizan shaikh",
+      "email": "faizansk@gmail.com",
+      "password": "faizan",
+      "id": 1
+    },
+    {
+      "name": "Faizan shaikh",
+      "email": "test@gmail.com",
+      "password": "1234",
+      "id": 2
+    }
+  ]
+}
