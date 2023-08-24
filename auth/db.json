@@ -11,6 +11,18 @@
       "email": "test@gmail.com",
       "password": "1234",
       "id": 2
+    },
+    {
+      "name": "Faizan shaikh",
+      "email": "mahendar@gmail.com",
+      "password": "mahendar",
+      "id": 3
+    },
+    {
+      "name": "test5",
+      "email": "raihan@gmail.com",
+      "password": "raihan",
+      "id": 4
     }
   ]
 }
